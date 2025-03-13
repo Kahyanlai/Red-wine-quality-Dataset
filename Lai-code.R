@@ -16,7 +16,7 @@ sample.data <- the.data[sample(1:1599, 500), c(1:6)]
 # Set the column names for the sample data
 colnames(sample.data) <- c("Citric Acid", "Chlorides", "Total Sulfur Dioxide", "pH", "Alcohol", "Quality")
 
-
+#hhjhjhjkkhkh
 # Create scatter plots for each predictor variable against the variable of interest (Quality)
 par(mfrow = c(1, 1))
 
